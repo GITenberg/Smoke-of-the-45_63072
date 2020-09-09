@@ -1,5 +1,5 @@
 _repo: Smoke-of-the-45_63072
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Johnson, Frank Tenney
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '6781'
     url: http://www.gutenberg.org/2009/agents/6781
     wikipedia: http://en.wikipedia.org/wiki/Frank_Tenney_Johnson
+covers:
+- cover_type: archival
+  image_path: 63072-h/images/cover.jpg
 creator:
   author:
     agent_name: Drago, Harry Sinclair
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52266
     wikipedia: https://en.wikipedia.org/wiki/Harry_Sinclair_Drago
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63072#Smoke-of-the-45
 gutenberg_issued: '2020-08-28'
 gutenberg_type: Text
 identifiers:
